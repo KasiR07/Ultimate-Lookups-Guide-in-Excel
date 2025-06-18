@@ -110,15 +110,6 @@ Nesting `XLOOKUP` functions allows multi-dimensional lookups (e.g., row + column
 
 ---
 
-## 👤 Author
-Naga Venkata Sai Ruthvik Kasi  
-Master’s in Applied Computing – University of Windsor
-
-## 📃 License
-MIT License – For educational and learning purposes only.
-
----
-
 ## ❗ Error Handling: IFERROR vs IF_NOT_FOUND
 
 ### ✅ `IFERROR()`
