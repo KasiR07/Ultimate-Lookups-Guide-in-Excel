@@ -16,7 +16,7 @@
 ### ⚠️ Limitations
 - Only searches **left to right**
 - Lookup column must be **first**
-- Slower on large datasets
+- Slower on large datasets  vjknfsnv
 - Cannot return value to the **left** of the match
 
 ---
