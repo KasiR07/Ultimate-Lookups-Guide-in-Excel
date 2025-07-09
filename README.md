@@ -16,7 +16,7 @@
 ### ⚠️ Limitations
 - Only searches **left to right**
 - Lookup column must be **first**
-- Slower on large datasets  vjknfsnv
+- Slower on large datasets  
 - Cannot return value to the **left** of the match
 
 ---
@@ -164,3 +164,6 @@ If `"Sai"` is not in column A, returns `"Not Found"` instead of `#N/A`.
 | `IFERROR()`    | Handles all types of formula errors     | You want broad error-catching              |
 | `if_not_found` | Handles only missing lookup values      | You're using `XLOOKUP` and want cleaner code |
 
+
+
+f bb hkbks k
